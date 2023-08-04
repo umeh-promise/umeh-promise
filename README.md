@@ -1,7 +1,7 @@
-<h3>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-</h3>
+<h4>
+  Hi there, 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" />
+</h4>
 
 <div class="header" align="center">
 	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl6Y2g2MGo2a2kyNnJsZGJqaWltZG01amNnZWZ3eWVuOGtoZXR0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140px" />
@@ -9,20 +9,30 @@
   <a href="https://www.linkedin.com/in/promise-chidubem-umeh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="umehpromise1000@gmail.com">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="mailto:umehpromise1000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=umeh-promise&style=flat-square&color=blue" alt=""/>
-
 </div>
 
 ---
 
 ### :woman_technologist: About Me:
 
-I am a Frontend (React) Developer
+#### I am a Frontend (React) Developer
 
+I have a solid foundation in frontend technologies, including:
+- HTML, CSS, and JavaScript: The bread and butter of every frontend developer.
+- Frontend Frameworks: My go-to library is React, and I've also experimented with Nextjs framework.
+- CSS Frameworks: I'm well-versed in Bootstrap, and I've explored the flexibility of Tailwind CSS and Styled Components.
+- Version Control: Git is my trusty sidekick for managing code and collaborating with teammates.
+- Build Tools: I've worked with Webpack and Parcel to streamline development workflows.
+- Testing: I write unit tests using Jest and Enzyme to ensure code reliability.
+- Responsive Design: Creating seamless experiences across devices is always a top priority.
+- Web Performance Optimization: I'm passionate about making websites blazing fast.
+- User Experience (UX) Design: I pay meticulous attention to the user journey and interactions.
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
@@ -50,6 +60,7 @@ I am a Frontend (React) Developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umeh-promise&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
 <!--
 **umeh-promise/umeh-promise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,5 +74,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=umeh-promise&theme=discord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umeh-promise&show_icons=true&theme=radical)
 -->
 
