@@ -51,31 +51,3 @@ I have a solid foundation in frontend technologies, including:
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;        
 </div>
-
----
-
-### My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=umeh-promise&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umeh-promise&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**umeh-promise/umeh-promise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=umeh-promise&theme=discord)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umeh-promise&show_icons=true&theme=radical)
--->
-
