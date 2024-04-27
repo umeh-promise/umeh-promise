@@ -20,7 +20,7 @@
 
 ### About Me:
 
-#### I am a Frontend (React) Developer
+#### I am a Frontend Developer
 
 I have a solid foundation in frontend technologies, including:
 - HTML, CSS, and JavaScript: The bread and butter of every frontend developer.
