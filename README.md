@@ -24,7 +24,7 @@
 
 I have a solid foundation in frontend technologies, including:
 - HTML, CSS, and JavaScript: The bread and butter of every frontend developer.
-- Frontend Frameworks: My go-to library is React, and I've also experimented with Nextjs framework.
+- Frontend Frameworks: My go-to library is React and Nextjs framework.
 - CSS Frameworks: I'm well-versed in Bootstrap, and I've explored the flexibility of Tailwind CSS and Styled Components.
 - Version Control: Git is my trusty sidekick for managing code and collaborating with teammates.
 - Build Tools: I've worked with Webpack and Parcel to streamline development workflows.
